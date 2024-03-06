@@ -1,0 +1,43 @@
+.background {
+  background-image: url("../../public/pexels-shonejai-1227511.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    
+  }
+  .y{
+    height:60vh;
+    width:50vw;
+    min-width: 300px;
+    background-color: rgb(83, 28, 28);
+    border-radius: 30px;
+    
+  }
+  .p{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+  }
+  .option-style{
+    font-size: 3vw;
+    color: white;
+  }
+  .button{
+    height: 40px;
+    width:200px;
+    border-radius: 30px;
+  }
+  .app-name{
+    font-size: 8vh;
+
+  }
+  

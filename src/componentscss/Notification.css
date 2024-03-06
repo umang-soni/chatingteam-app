@@ -1,0 +1,22 @@
+.backgroundnotification{
+    background-image: url("../../public/pexels-shonejai-1227511.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      height: 100vh;
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      overflow: auto;
+    
+}
+.not-back{
+    background-color:rgb(83, 28, 28) ;
+    height:75vh;
+    width: 80vw;
+}
+.t{
+    background-color: white;
+}

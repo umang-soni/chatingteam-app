@@ -1,0 +1,70 @@
+.backgr{
+   background-color: bisque;
+     min-height: 100vh;
+}
+
+
+
+
+.background-main{
+   
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.left-div{
+    width:30vw;
+    background-color: rgb(83, 28, 28);
+   height:60vh;
+    min-width: 400px;
+    margin-top: 60px;
+    overflow: auto;
+   
+}
+.right-div{
+    width:50vw;
+    background-color: rgb(83, 28, 28);
+    height:70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 300px;
+    margin-left: 30px!important;
+
+}
+
+@media screen and (max-width: 600px) {
+    .background-main {
+        
+        
+          flex-direction: column;
+          
+
+
+         
+       
+      
+    }
+   
+  
+    }
+   
+  
+
+
+
+
+.option-style2{
+    font-size: 2vw;
+    color:white;
+}
+.message{
+    background-color: rgb(83, 28, 28);
+    height: 10vh;
+    width:300px;
+
+}
+.cu{
+    color:white
+}
